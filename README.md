@@ -20,5 +20,5 @@ Looping setiap pelanggan dalam daftar_pelanggan, isintance() disini digunakan un
 6/. Mencetak Tabel
 
 4. Foto Design Diagram
-  ![Alt Text](Untitled Diagram.jpg)
+  ![Alt Text]([Untitled Diagram.jpg](https://github.com/juliarhm/TP2DPBO2425C2/blob/main/Untitled%20Diagram.jpg))
 Pada gambar diagram ini yang menjadi parent nya adalah Manusia lalu memiliki turunan yaitu Pelanggan dan pelanggan memiliki Turunan/ grandchild dari Manusia yaitu PelangganPremium
