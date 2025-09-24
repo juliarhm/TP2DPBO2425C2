@@ -1,4 +1,4 @@
-Saya Julia Rahmawati dengan NIM 2400742 mengerjakan TP 1 dalam mata kuliah Desain Pemrograman Berorientasi Berorientasi Objek untuk keberkahan-Nya, maka saya tidak akan melakukan kecurangan seperti yang telah di spesifikasikan Aamiin.
+Saya Julia Rahmawati dengan NIM 2400742 mengerjakan TP 2 dalam mata kuliah Desain Pemrograman Berorientasi Berorientasi Objek untuk keberkahan-Nya, maka saya tidak akan melakukan kecurangan seperti yang telah di spesifikasikan Aamiin.
 
 Saya akan menjelaskan atribut, methods, diagram, penjelasan alur program, dan dokumentasi.
 
@@ -18,3 +18,7 @@ Di dalam program Main ada 2 method yaitu, tambah_pelanggan dimana berfungsi untu
 5/. Menambahkan Data Pelanggan Ke Tabel
 Looping setiap pelanggan dalam daftar_pelanggan, isintance() disini digunakan untuk membedakan pelanggan premium dan biasa. untuk pelanggan biasa atribut level, diskon dan point disini "-". 
 6/. Mencetak Tabel
+
+4. Foto Design Diagram
+  ![Alt Text](Untitled Diagram.jpg)
+Pada gambar diagram ini yang menjadi parent nya adalah Manusia lalu memiliki turunan yaitu Pelanggan dan pelanggan memiliki Turunan/ grandchild dari Manusia yaitu PelangganPremium
